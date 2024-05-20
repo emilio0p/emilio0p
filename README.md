@@ -6,7 +6,7 @@ Soy un apasionado desarrollador de software con experiencia en diferentes tecnol
 
 ## 🚀 Habilidades
 
-- **Lenguajes de programación:** Java, JavaScript
+- **Lenguajes de programación:** Java, JavaScript, SQL / PLSQL, HTML, JS, TypeScript, Python
 - **Frameworks y bibliotecas:** SpringBoot
 - **Bases de datos:** MySQL, MongoDB
 - **Herramientas de desarrollo:** Git, VS Code, IntelliJ IDEA
