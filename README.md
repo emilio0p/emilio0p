@@ -23,6 +23,6 @@ Actualmente, estoy enfocando mis esfuerzos en mejorar mis habilidades en desarro
 Si quieres saber más sobre mis proyectos o simplemente charlar sobre desarrollo de software, ¡no dudes en contactarme!
 
 - Email: emilio.ordunap@hotmail.com
-- LinkedIn: [https://www.linkedin.com/in/emilio-ordu%C3%B1a-pe%C3%B1a-b6bb51256/](https://www.linkedin.com/in/emilio-ordu%C3%B1a-pe%C3%B1a-b6bb51256/)
+- LinkedIn: [https://www.linkedin.com/in/emilio-orduña-peña](https://www.linkedin.com/in/emilio-orduña-peña/)
 
 ¡Espero que te haya gustado mi perfil! Siéntete libre de explorar mis repositorios y contribuir en caso de que encuentres algo interesante. ¡Gracias por visitar mi perfil de GitHub!
