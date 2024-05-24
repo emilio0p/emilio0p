@@ -13,6 +13,8 @@ Soy un apasionado desarrollador de software con experiencia en diferentes tecnol
 
 ## 🔭 Proyectos destacados
 [https://github.com/emilio0p/Examen3EvaluacionDAM]
+[https://github.com/emilio0p/CRUD-WPF-Navigator]
+[https://github.com/emilio0p/CRUD-WPF-Navigator]
 
 ## 🌱 Actualmente estoy aprendiendo
 
